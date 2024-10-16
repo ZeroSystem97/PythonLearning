@@ -1,5 +1,5 @@
 Hi!
-My name is ZeroSystem97 and I have currently started learnig Phyton.
+My name is ZeroSystem97 and I have currently started learnig Python.
 - My learnig journey have started on October 16th 2024
 
 What is inside the repository?:
